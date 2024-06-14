@@ -10,22 +10,44 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
-  m_Name: 21_new_card_name
+  m_Name: nomad-06_basilisk
   m_EditorClassIdentifier: 
-  id: nomad-03_thelas_cover
-  cardName: Thelas Cover
-  manaCost: 2
+  id: nomad-06_basilisk
+  cardName: Basilisk
+  manaCost: 3
   cardSprite: {fileID: 0}
-  rarity: 0
+  rarity: 1
   usableWithoutTarget: 0
   exhaustAfterPlay: 0
   cardActionDataList:
+  - cardActionType: 0
+    actionTargetType: 2
+    actionValue: 2
+    actionDelay: 0
   - cardActionType: 2
-    actionTargetType: 1
-    actionValue: 4
+    actionTargetType: 3
+    actionValue: 3
     actionDelay: 0
   cardDescriptionDataList:
-  - descriptionText: 'Block '
+  - descriptionText: 'Deal '
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 0
+  - descriptionText: 
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 1
+    modifiedActionValueIndex: 0
+    modiferStats: 3
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 0
+  - descriptionText: ' DMG to all enemies, Block '
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -36,9 +58,9 @@ MonoBehaviour:
     overrideColorOnValueScaled: 0
   - descriptionText: 
     enableOverrideColor: 1
-    overrideColor: {r: 0, g: 0.11449838, b: 1, a: 1}
+    overrideColor: {r: 0, g: 0.12438488, b: 1, a: 1}
     useModifier: 1
-    modifiedActionValueIndex: 0
+    modifiedActionValueIndex: 1
     modiferStats: 0
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
@@ -53,4 +75,4 @@ MonoBehaviour:
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
   specialKeywordsList: 00000000
-  audioType: 2
+  audioType: 0

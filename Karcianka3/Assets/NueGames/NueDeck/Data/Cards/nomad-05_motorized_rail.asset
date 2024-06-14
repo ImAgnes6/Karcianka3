@@ -10,23 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
-  m_Name: 25_new_card_name
+  m_Name: nomad-05_motorized_rail
   m_EditorClassIdentifier: 
-  id: nomad-07_santiago_aldecaldo
-  cardName: Santiago Aldecaldo
-  manaCost: 4
+  id: nomad-05_motorized_rail
+  cardName: Motorized Rail
+  manaCost: 3
   cardSprite: {fileID: 0}
-  rarity: 2
+  rarity: 1
   usableWithoutTarget: 0
-  exhaustAfterPlay: 1
+  exhaustAfterPlay: 0
   cardActionDataList:
   - cardActionType: 0
-    actionTargetType: 0
+    actionTargetType: 2
     actionValue: 2
-    actionDelay: 0
-  - cardActionType: 1
-    actionTargetType: 3
-    actionValue: 3
     actionDelay: 0
   cardDescriptionDataList:
   - descriptionText: 'Deal '
@@ -47,25 +43,7 @@ MonoBehaviour:
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  - descriptionText: ' DMG, Heal '
-    enableOverrideColor: 0
-    overrideColor: {r: 0, g: 0, b: 0, a: 1}
-    useModifier: 0
-    modifiedActionValueIndex: 0
-    modiferStats: 0
-    usePrefixOnModifiedValue: 0
-    modifiedValuePrefix: '*'
-    overrideColorOnValueScaled: 0
-  - descriptionText: 
-    enableOverrideColor: 1
-    overrideColor: {r: 0.05724919, g: 1, b: 0, a: 1}
-    useModifier: 1
-    modifiedActionValueIndex: 1
-    modiferStats: 0
-    usePrefixOnModifiedValue: 0
-    modifiedValuePrefix: '*'
-    overrideColorOnValueScaled: 0
-  - descriptionText: ' HP'
+  - descriptionText: ' DMG to all enemies'
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
