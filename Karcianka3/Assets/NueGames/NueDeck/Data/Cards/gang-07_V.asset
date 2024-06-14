@@ -10,20 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
-  m_Name: 9-Attack_LifeSteal
+  m_Name: gang-07_V
   m_EditorClassIdentifier: 
-  id: 9_attack_lifeSteal
-  cardName: Life Steal
-  manaCost: 2
-  cardSprite: {fileID: 21300000, guid: 04684b85c9246b945a48b41d9ec2f4be, type: 3}
-  rarity: 0
+  id: gang-07_V
+  cardName: V
+  manaCost: 4
+  cardSprite: {fileID: 0}
+  rarity: 2
   usableWithoutTarget: 0
-  exhaustAfterPlay: 0
+  exhaustAfterPlay: 1
   cardActionDataList:
-  - cardActionType: 7
+  - cardActionType: 0
     actionTargetType: 0
-    actionValue: 5
+    actionValue: 6
     actionDelay: 0
+  - cardActionType: 8
+    actionTargetType: 0
+    actionValue: 1
+    actionDelay: 1
   cardDescriptionDataList:
   - descriptionText: 'Deal '
     enableOverrideColor: 0
@@ -36,23 +40,14 @@ MonoBehaviour:
     overrideColorOnValueScaled: 0
   - descriptionText: 
     enableOverrideColor: 1
-    overrideColor: {r: 0.7686275, g: 0.14117648, b: 0.18823531, a: 1}
+    overrideColor: {r: 1, g: 0, b: 0, a: 1}
     useModifier: 1
-    modifiedActionValueIndex: 0
-    modiferStats: 3
-    usePrefixOnModifiedValue: 1
-    modifiedValuePrefix: '*'
-    overrideColorOnValueScaled: 1
-  - descriptionText: ' damage.'
-    enableOverrideColor: 0
-    overrideColor: {r: 0, g: 0, b: 0, a: 1}
-    useModifier: 0
     modifiedActionValueIndex: 0
     modiferStats: 0
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  - descriptionText: ' Heal '
+  - descriptionText: ' dmg, apply '
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -63,12 +58,21 @@ MonoBehaviour:
     overrideColorOnValueScaled: 0
   - descriptionText: 
     enableOverrideColor: 1
-    overrideColor: {r: 0.3529412, g: 0.7725491, b: 0.30980393, a: 1}
+    overrideColor: {r: 0.9846988, g: 1, b: 0, a: 1}
     useModifier: 1
-    modifiedActionValueIndex: 0
-    modiferStats: 3
-    usePrefixOnModifiedValue: 1
+    modifiedActionValueIndex: 1
+    modiferStats: 5
+    usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
-    overrideColorOnValueScaled: 1
-  specialKeywordsList: 
-  audioType: 5
+    overrideColorOnValueScaled: 0
+  - descriptionText: ' stun effect'
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 0
+  specialKeywordsList: 05000000
+  audioType: 0

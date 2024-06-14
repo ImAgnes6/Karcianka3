@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
+  m_Name: gang-08_silverhand
+  m_EditorClassIdentifier: 
+  id: gang-08_silverhand
+  cardName: Silverhand
+  manaCost: 4
+  cardSprite: {fileID: 0}
+  rarity: 2
+  usableWithoutTarget: 1
+  exhaustAfterPlay: 1
+  cardActionDataList:
+  - cardActionType: 8
+    actionTargetType: 3
+    actionValue: 0
+    actionDelay: 0
+  cardDescriptionDataList:
+  - descriptionText: "f\u0338\u0305\u0346\u031A\u031A\u0341\u0356\u034E\u031E\u032Eu\u0338\u0308\u0327\u034D\u031D\u033Bc\u0334\u0351\u0358\u0307\u0306\u0339\u0339\u0339\u0326\u0319\u034Dk\u0334\u0308\u0307\u0306\u0317\u0319\u0353
+      \u0335\u033E\u0346\u033D\u0346\u031B\u0302\u0333\u0332\u035A\u0320\u0355a\u0338\u0306\u035D\u0314\u0315\u035B\u0325\u0328\u0328\u035C\u0331\u034Er\u0337\u0311\u0352\u0344\u0312\u0352\u0357\u032F\u0317a\u0337\u031B\u0342\u0329\u032E\u0330\u032C\u0317\u0333s\u0336\u0302\u0340\u035C\u0331a\u0338\u0303\u033E\u0306\u0313\u031B\u0360\u0333\u0356\u0319\u0318k\u0334\u030E\u030C\u0305\u0306\u035B\u0342\u035A\u0322\u0359\u0333\u0355a\u0338\u0311\u030F\u031D\u0328\u0321\u0349\u032E"
+    enableOverrideColor: 0
+    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    useModifier: 0
+    modifiedActionValueIndex: 0
+    modiferStats: 0
+    usePrefixOnModifiedValue: 0
+    modifiedValuePrefix: '*'
+    overrideColorOnValueScaled: 0
+  specialKeywordsList: 
+  audioType: 3
