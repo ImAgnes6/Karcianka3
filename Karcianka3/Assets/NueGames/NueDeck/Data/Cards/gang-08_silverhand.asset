@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: gang-08_hand_of_silver
   cardName: Hand of Silver
-  manaCost: 4
+  manaCost: 3
   cardSprite: {fileID: 0}
   rarity: 2
   usableWithoutTarget: 1

@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: nomad-07_call_of_santiago
   cardName: Call of Santiago
-  manaCost: 4
+  manaCost: 3
   cardSprite: {fileID: 0}
   rarity: 2
   usableWithoutTarget: 0
