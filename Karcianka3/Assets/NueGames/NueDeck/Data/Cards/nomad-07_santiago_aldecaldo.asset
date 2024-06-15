@@ -27,7 +27,7 @@ MonoBehaviour:
   - cardActionType: 1
     actionTargetType: 3
     actionValue: 4
-    actionDelay: 0
+    actionDelay: 1
   cardDescriptionDataList:
   - descriptionText: 'Stun enemy for '
     enableOverrideColor: 0
