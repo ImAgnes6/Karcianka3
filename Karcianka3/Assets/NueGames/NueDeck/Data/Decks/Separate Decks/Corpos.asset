@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4cc2cb8eaf4444790bf3249beca9ed4, type: 3}
+  m_Name: Corpos
+  m_EditorClassIdentifier: 
+  deckId: deck_default
+  deckName: 
+  cardList:
+  - {fileID: 11400000, guid: f9902429acf717c4187e507037f325f2, type: 2}
+  - {fileID: 11400000, guid: d6a8265cd801d2c45a7bd7a5950866ff, type: 2}
+  - {fileID: 11400000, guid: 42464b277e573c44faa4dafe5719b966, type: 2}
+  - {fileID: 11400000, guid: 772a1924e70012846b9ad97a97055c37, type: 2}
+  - {fileID: 11400000, guid: 229de5f922460be429ac225a94fe56ee, type: 2}
+  - {fileID: 11400000, guid: 07d63c310b7c4f24c89d11a74f9e7d63, type: 2}
+  - {fileID: 11400000, guid: 559fb027a3fac894f8dccdab8ace1d59, type: 2}
+  - {fileID: 11400000, guid: 06858171820fde44dbc1a4b1aba57a80, type: 2}

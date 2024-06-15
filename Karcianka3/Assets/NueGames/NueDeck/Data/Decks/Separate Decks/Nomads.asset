@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4cc2cb8eaf4444790bf3249beca9ed4, type: 3}
+  m_Name: Nomads
+  m_EditorClassIdentifier: 
+  deckId: deck_default
+  deckName: 
+  cardList:
+  - {fileID: 11400000, guid: 5e21fc3799fdbc24e998c40c7912aa6c, type: 2}
+  - {fileID: 11400000, guid: 441f1a4a8f112194ab8cd30c76e46275, type: 2}
+  - {fileID: 11400000, guid: 47cc30704727a7540b60daec9c08f654, type: 2}
+  - {fileID: 11400000, guid: 2333e52f1399c6144a476e8c20e7a6ed, type: 2}
+  - {fileID: 11400000, guid: 42953d8ff77dcf04ab5d3a901837c44c, type: 2}
+  - {fileID: 11400000, guid: c5a7808e9bd04ad45b1c1b59367d74df, type: 2}
+  - {fileID: 11400000, guid: 2df22815eeab2d54c9e7d88076eb3e3b, type: 2}

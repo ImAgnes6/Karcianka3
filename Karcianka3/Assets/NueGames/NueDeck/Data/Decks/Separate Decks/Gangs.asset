@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a4cc2cb8eaf4444790bf3249beca9ed4, type: 3}
-  m_Name: InitalDeck
+  m_Name: Gangs
   m_EditorClassIdentifier: 
   deckId: deck_default
   deckName: 
@@ -19,11 +19,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 01a7881a010c6b440ac2da6d48cfe819, type: 2}
   - {fileID: 11400000, guid: 3ff0d22adfe46064fb9825ad1af1fdd6, type: 2}
   - {fileID: 11400000, guid: 80912f8753f1ddf489bdab03ea7ef0a0, type: 2}
-  - {fileID: 11400000, guid: f9902429acf717c4187e507037f325f2, type: 2}
-  - {fileID: 11400000, guid: d6a8265cd801d2c45a7bd7a5950866ff, type: 2}
-  - {fileID: 11400000, guid: 5e21fc3799fdbc24e998c40c7912aa6c, type: 2}
-  - {fileID: 11400000, guid: 441f1a4a8f112194ab8cd30c76e46275, type: 2}
-  - {fileID: 11400000, guid: 47cc30704727a7540b60daec9c08f654, type: 2}
-  - {fileID: 11400000, guid: 6dc64131243c6b442aa5f1c38ad0c295, type: 2}
-  - {fileID: 11400000, guid: 98527aa3500c62a4e86d2e888217e727, type: 2}
-  - {fileID: 11400000, guid: 3ce24c21a763c8e4da14b7b45f2ea2e4, type: 2}
+  - {fileID: 11400000, guid: 01f1b7eb9f74f374d9e96d060a1e8859, type: 2}
+  - {fileID: 11400000, guid: 99d5cb866a1bfb145b6f41e8423e9352, type: 2}
+  - {fileID: 11400000, guid: a74ed2ba03cd84b4e8a770960b1be5f1, type: 2}
+  - {fileID: 11400000, guid: 7df655ffbc15c3e418dde5a22594cb4c, type: 2}
