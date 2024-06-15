@@ -19,15 +19,32 @@ MonoBehaviour:
   initalDeck: {fileID: 11400000, guid: 1f1db59d6dc1c1046b2ad72c336c615e, type: 2}
   maxCardOnHand: 10
   allCardsList:
-  - {fileID: 11400000, guid: 1e43cdb39f5836b44942f367125cadde, type: 2}
-  - {fileID: 11400000, guid: 8f655889219afa649a967e88e37f98ec, type: 2}
-  - {fileID: 11400000, guid: e1783ca46b526944c969405b4c0a29ec, type: 2}
-  - {fileID: 11400000, guid: 7c3fef23d2fb177478906e53364bf7fc, type: 2}
-  - {fileID: 11400000, guid: 97392c824000e4049a6299b2cef0e84d, type: 2}
-  - {fileID: 11400000, guid: 9706119fd5cc9f34e90cb73be068200c, type: 2}
-  - {fileID: 11400000, guid: 1e5671bf6b0f90b428df809497a2f125, type: 2}
-  - {fileID: 11400000, guid: 5d6b018bf7dec554ba0a2eabfd89d3b1, type: 2}
-  - {fileID: 11400000, guid: ffd3079242e164645ba9365c7c965def, type: 2}
+  - {fileID: 11400000, guid: f9902429acf717c4187e507037f325f2, type: 2}
+  - {fileID: 11400000, guid: d6a8265cd801d2c45a7bd7a5950866ff, type: 2}
+  - {fileID: 11400000, guid: 42464b277e573c44faa4dafe5719b966, type: 2}
+  - {fileID: 11400000, guid: 772a1924e70012846b9ad97a97055c37, type: 2}
+  - {fileID: 11400000, guid: 229de5f922460be429ac225a94fe56ee, type: 2}
+  - {fileID: 11400000, guid: 07d63c310b7c4f24c89d11a74f9e7d63, type: 2}
+  - {fileID: 11400000, guid: 559fb027a3fac894f8dccdab8ace1d59, type: 2}
+  - {fileID: 11400000, guid: 06858171820fde44dbc1a4b1aba57a80, type: 2}
+  - {fileID: 11400000, guid: 25cdf7d9742f07a4ca9f17e2920a4cc4, type: 2}
+  - {fileID: 11400000, guid: 01a7881a010c6b440ac2da6d48cfe819, type: 2}
+  - {fileID: 11400000, guid: 3ff0d22adfe46064fb9825ad1af1fdd6, type: 2}
+  - {fileID: 11400000, guid: 80912f8753f1ddf489bdab03ea7ef0a0, type: 2}
+  - {fileID: 11400000, guid: 01f1b7eb9f74f374d9e96d060a1e8859, type: 2}
+  - {fileID: 11400000, guid: 99d5cb866a1bfb145b6f41e8423e9352, type: 2}
+  - {fileID: 11400000, guid: a74ed2ba03cd84b4e8a770960b1be5f1, type: 2}
+  - {fileID: 11400000, guid: 7df655ffbc15c3e418dde5a22594cb4c, type: 2}
+  - {fileID: 11400000, guid: 5e21fc3799fdbc24e998c40c7912aa6c, type: 2}
+  - {fileID: 11400000, guid: 441f1a4a8f112194ab8cd30c76e46275, type: 2}
+  - {fileID: 11400000, guid: 47cc30704727a7540b60daec9c08f654, type: 2}
+  - {fileID: 11400000, guid: 2333e52f1399c6144a476e8c20e7a6ed, type: 2}
+  - {fileID: 11400000, guid: 42953d8ff77dcf04ab5d3a901837c44c, type: 2}
+  - {fileID: 11400000, guid: c5a7808e9bd04ad45b1c1b59367d74df, type: 2}
+  - {fileID: 11400000, guid: 2df22815eeab2d54c9e7d88076eb3e3b, type: 2}
+  - {fileID: 11400000, guid: 6dc64131243c6b442aa5f1c38ad0c295, type: 2}
+  - {fileID: 11400000, guid: 98527aa3500c62a4e86d2e888217e727, type: 2}
+  - {fileID: 11400000, guid: 3ce24c21a763c8e4da14b7b45f2ea2e4, type: 2}
   cardPrefab: {fileID: 2689473134106589740, guid: a9728682a56595f4989b8f224d934689, type: 3}
   defaultName: Nue
   useStageSystem: 0
