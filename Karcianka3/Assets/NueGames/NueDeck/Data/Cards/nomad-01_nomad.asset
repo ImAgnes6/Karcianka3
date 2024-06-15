@@ -12,24 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: nomad-01_nomad
   m_EditorClassIdentifier: 
-  id: nomad-01_nomad
-  cardName: Nomad
+  id: nomad-01_nomads_freedom
+  cardName: Nomad's Freedom
   manaCost: 2
   cardSprite: {fileID: 0}
   rarity: 0
   usableWithoutTarget: 0
   exhaustAfterPlay: 0
   cardActionDataList:
-  - cardActionType: 0
+  - cardActionType: 7
     actionTargetType: 0
     actionValue: 1
     actionDelay: 0
-  - cardActionType: 1
-    actionTargetType: 3
-    actionValue: 1
-    actionDelay: 0
   cardDescriptionDataList:
-  - descriptionText: 'Deal '
+  - descriptionText: 'Steal '
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -44,24 +40,6 @@ MonoBehaviour:
     useModifier: 1
     modifiedActionValueIndex: 0
     modiferStats: 3
-    usePrefixOnModifiedValue: 0
-    modifiedValuePrefix: '*'
-    overrideColorOnValueScaled: 0
-  - descriptionText: ' DMG, heal '
-    enableOverrideColor: 0
-    overrideColor: {r: 0, g: 0, b: 0, a: 1}
-    useModifier: 0
-    modifiedActionValueIndex: 0
-    modiferStats: 0
-    usePrefixOnModifiedValue: 0
-    modifiedValuePrefix: '*'
-    overrideColorOnValueScaled: 0
-  - descriptionText: 
-    enableOverrideColor: 1
-    overrideColor: {r: 0.09296775, g: 1, b: 0, a: 1}
-    useModifier: 1
-    modifiedActionValueIndex: 1
-    modiferStats: 0
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0

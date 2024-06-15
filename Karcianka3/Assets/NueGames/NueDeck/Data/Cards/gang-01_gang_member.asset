@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: gang-01_gang_member
   m_EditorClassIdentifier: 
-  id: gang-01_gang_member
-  cardName: Gang Member
+  id: gang-01_katana_slash
+  cardName: Katana Slash
   manaCost: 1
   cardSprite: {fileID: 0}
   rarity: 0
@@ -22,7 +22,7 @@ MonoBehaviour:
   cardActionDataList:
   - cardActionType: 0
     actionTargetType: 0
-    actionValue: 2
+    actionValue: 1
     actionDelay: 0
   cardDescriptionDataList:
   - descriptionText: 'Deals '

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: gang-07_V
   m_EditorClassIdentifier: 
-  id: gang-07_V
-  cardName: V
+  id: gang-07_call_of_V
+  cardName: Call of V
   manaCost: 4
   cardSprite: {fileID: 0}
   rarity: 2
@@ -26,7 +26,7 @@ MonoBehaviour:
     actionDelay: 0
   - cardActionType: 8
     actionTargetType: 0
-    actionValue: 1
+    actionValue: 2
     actionDelay: 1
   cardDescriptionDataList:
   - descriptionText: 'Deal '
@@ -47,7 +47,7 @@ MonoBehaviour:
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  - descriptionText: ' dmg, apply '
+  - descriptionText: ' dmg, apply stun for '
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -65,7 +65,7 @@ MonoBehaviour:
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  - descriptionText: ' stun effect'
+  - descriptionText: ' turns. Exhausts after use.'
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0

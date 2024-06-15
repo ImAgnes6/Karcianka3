@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: corpo-07_alt_cunningham
   m_EditorClassIdentifier: 
-  id: corpo-07_alt_cunningham
-  cardName: Alt Cunningham
+  id: corpo-07_call_of_alt
+  cardName: Call of Alt
   manaCost: 4
   cardSprite: {fileID: 0}
   rarity: 2

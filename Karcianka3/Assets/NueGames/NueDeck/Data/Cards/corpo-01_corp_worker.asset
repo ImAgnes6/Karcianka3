@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: corpo-01_corp_worker
   m_EditorClassIdentifier: 
-  id: corpo-01_corp_worker
-  cardName: Corp Worker
+  id: corpo-01_corpo_payload
+  cardName: Corpo Payload
   manaCost: 1
   cardSprite: {fileID: 0}
   rarity: 0
@@ -22,7 +22,7 @@ MonoBehaviour:
   cardActionDataList:
   - cardActionType: 0
     actionTargetType: 4
-    actionValue: 3
+    actionValue: 2
     actionDelay: 0
   cardDescriptionDataList:
   - descriptionText: 'Deal '

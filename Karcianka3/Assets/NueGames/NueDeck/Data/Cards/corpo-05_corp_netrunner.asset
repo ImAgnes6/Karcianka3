@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: corpo-05_corp_netrunner
   m_EditorClassIdentifier: 
-  id: corpo-05_corp_netrunner
-  cardName: Corp Netrunner
+  id: corpo-05_corp_ice
+  cardName: Corp ICE
   manaCost: 2
   cardSprite: {fileID: 0}
   rarity: 1
-  usableWithoutTarget: 0
+  usableWithoutTarget: 1
   exhaustAfterPlay: 0
   cardActionDataList:
   - cardActionType: 8

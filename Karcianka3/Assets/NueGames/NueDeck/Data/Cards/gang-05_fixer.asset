@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: gang-05_fixer
   m_EditorClassIdentifier: 
-  id: gang-05_fixer
-  cardName: Fixer
+  id: gang-05_fixers_call
+  cardName: Fixer's Call
   manaCost: 2
   cardSprite: {fileID: 0}
   rarity: 1
@@ -35,8 +35,8 @@ MonoBehaviour:
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
   - descriptionText: 
-    enableOverrideColor: 0
-    overrideColor: {r: 0, g: 0, b: 0, a: 1}
+    enableOverrideColor: 1
+    overrideColor: {r: 1, g: 0, b: 0, a: 1}
     useModifier: 1
     modifiedActionValueIndex: 0
     modiferStats: 3

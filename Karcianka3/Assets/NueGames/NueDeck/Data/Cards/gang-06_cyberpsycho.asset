@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: gang-06_cyberpsycho
   m_EditorClassIdentifier: 
-  id: gang-06_cyberpsycho
-  cardName: Cyberpsycho
+  id: gang-06_cyberpsychosis
+  cardName: Cyberpsychosis
   manaCost: 3
   cardSprite: {fileID: 0}
   rarity: 1
@@ -22,11 +22,11 @@ MonoBehaviour:
   cardActionDataList:
   - cardActionType: 0
     actionTargetType: 2
-    actionValue: 3
+    actionValue: 5
     actionDelay: 0
   - cardActionType: 0
     actionTargetType: 5
-    actionValue: 1
+    actionValue: 2
     actionDelay: 0
   cardDescriptionDataList:
   - descriptionText: 'Deal '

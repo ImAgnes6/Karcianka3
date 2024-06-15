@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: gang-02_netrunner
   m_EditorClassIdentifier: 
-  id: gang-02_netrunner
+  id: gang-02_synapse_overload
   cardName: Netrunner
   manaCost: 1
   cardSprite: {fileID: 0}

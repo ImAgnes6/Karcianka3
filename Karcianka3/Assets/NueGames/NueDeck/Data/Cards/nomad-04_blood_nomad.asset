@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: nomad-04_blood_nomad
   m_EditorClassIdentifier: 
-  id: nomad-04_blood_nomad
-  cardName: Blood Nomad
+  id: nomad-04_blood_clans_revenge
+  cardName: Blood Clan's Revenge
   manaCost: 3
   cardSprite: {fileID: 0}
   rarity: 1

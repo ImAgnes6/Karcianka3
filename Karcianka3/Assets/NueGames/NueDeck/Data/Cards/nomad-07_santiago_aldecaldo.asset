@@ -12,24 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: nomad-07_santiago_aldecaldo
   m_EditorClassIdentifier: 
-  id: nomad-07_santiago_aldecaldo
-  cardName: Santiago Aldecaldo
+  id: nomad-07_call_of_santiago
+  cardName: Call of Santiago
   manaCost: 4
   cardSprite: {fileID: 0}
   rarity: 2
   usableWithoutTarget: 0
   exhaustAfterPlay: 1
   cardActionDataList:
-  - cardActionType: 0
+  - cardActionType: 8
     actionTargetType: 0
     actionValue: 2
     actionDelay: 0
   - cardActionType: 1
     actionTargetType: 3
-    actionValue: 3
+    actionValue: 4
     actionDelay: 0
   cardDescriptionDataList:
-  - descriptionText: 'Deal '
+  - descriptionText: 'Stun enemy for '
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -47,7 +47,7 @@ MonoBehaviour:
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  - descriptionText: ' DMG, Heal '
+  - descriptionText: ' turns, Heal '
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -65,7 +65,7 @@ MonoBehaviour:
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  - descriptionText: ' HP'
+  - descriptionText: ' HP. Exhaust after use.'
     enableOverrideColor: 0
     overrideColor: {r: 0, g: 0, b: 0, a: 1}
     useModifier: 0
@@ -74,5 +74,5 @@ MonoBehaviour:
     usePrefixOnModifiedValue: 0
     modifiedValuePrefix: '*'
     overrideColorOnValueScaled: 0
-  specialKeywordsList: 
+  specialKeywordsList: 0300000005000000
   audioType: 0

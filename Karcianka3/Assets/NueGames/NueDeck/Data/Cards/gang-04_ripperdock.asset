@@ -12,16 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6903f06e96c43789549f142f8956d64, type: 3}
   m_Name: gang-04_ripperdock
   m_EditorClassIdentifier: 
-  id: gang-04_ripperdock
-  cardName: Ripperdock
+  id: gang-04_ripperdocks_hand
+  cardName: Ripperdock's Hand
   manaCost: 1
   cardSprite: {fileID: 0}
   rarity: 0
-  usableWithoutTarget: 0
+  usableWithoutTarget: 1
   exhaustAfterPlay: 0
   cardActionDataList:
   - cardActionType: 1
-    actionTargetType: 1
+    actionTargetType: 5
     actionValue: 3
     actionDelay: 0
   cardDescriptionDataList:
